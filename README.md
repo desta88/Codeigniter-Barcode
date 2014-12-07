@@ -37,4 +37,4 @@ class Main extends CI_Controller {
 }
 ```
 
-<strong>Example: <a href="http://api.mdesain.com/Codeigniter-Barcode-Generator-Zend-Library/">api.mdesain.com/Codeigniter-Barcode-Generator-Zend-Library</a></strong>
+<strong>Example: <a href="http://api.mdesain.com/Codeigniter-Barcode-Generator-Zend-Library/">http://api.mdesain.com/Codeigniter-Barcode-Generator-Zend-Library</a></strong>
