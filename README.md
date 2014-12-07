@@ -21,7 +21,7 @@ class Main extends CI_Controller {
 	{
 		//I'm just using rand() function for data example
 		$temp = rand(10000, 99999);
-		$data['read_barcode'] = $this->set_barcode($temp);
+		$this->set_barcode($temp);
 	}
 	
 	private function set_barcode($code)
