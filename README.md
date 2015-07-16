@@ -1,4 +1,4 @@
-Codeigniter Barcode Generator With Zend Library
+Codeigniter Barcode Generator With Zend Library (Support CI 2 & 3)
 ==========================================
 
 Create barcode generator using Zend Library
