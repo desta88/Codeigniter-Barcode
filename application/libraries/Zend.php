@@ -1,7 +1,7 @@
 <?php if( ! defined('BASEPATH')) exit('No direct script access allowed');
 
-class CI_Zend
-{
+class CI_Zend {
+
 	public function __construct($class = NULL)
 	{
 		ini_set('include_path',
@@ -9,7 +9,7 @@ class CI_Zend
 	
 		if($class)
 		{
-			require_once(string) $class . EXT;
+			require_once(string) $class.'.php'; //fixed CI 3 issue by lilsammy
 			log_message('debug', "Zend Class $class Loaded");
 		}else
 		{
@@ -19,7 +19,7 @@ class CI_Zend
 
 	public function load($class)
 	{
-		require_once(string) $class.EXT;
+		require_once(string) $class.'.php'; //fixed CI 3 issue by lilsammy
 		log_message('debug', "Zend Class $class Loaded");
 	}
 }
