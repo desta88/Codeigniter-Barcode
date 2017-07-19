@@ -8,7 +8,7 @@ It's so easy to use, you just extract the library into libraries path and then p
 <h1>Setup</h1>
 
 <blockquote>
-	1. Download and extract <a href="http://api.mdesain.com/Codeigniter-Barcode-Generator-Zend-Library/barcode.zip">barcode.zip</a> into libraries path<br>
+	1. Download and extract into libraries path<br>
 	2. Include your library in controller
 </blockquote>
 
@@ -36,5 +36,3 @@ class Main extends CI_Controller {
 	
 }
 ```
-
-<strong>Example: <a href="http://api.mdesain.com/Codeigniter-Barcode-Generator-Zend-Library/">http://api.mdesain.com/Codeigniter-Barcode-Generator-Zend-Library</a></strong>
