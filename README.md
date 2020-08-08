@@ -4,8 +4,13 @@
 > Codeigniter-Barcode by Zend Library - Changelog & Documentation
 
 
-[![Inline docs](http://inch-ci.org/github/desta88/Codeigniter-Barcode.svg?branch=master)](http://inch-ci.org/github/desta88/Codeigniter-Barcode) 
-[![HitCount](http://hits.dwyl.com/desta88/Codeigniter-Barcode.svg)](http://hits.dwyl.com/desta88/Codeigniter-Barcode)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/desta88/Codeigniter-Barcode/graphs/commit-activity)
+[![Github all releases](https://img.shields.io/github/downloads/desta88/Codeigniter-Barcode/total.svg)](https://GitHub.com/desta88/Codeigniter-Barcode/releases/)
+[![HitCount](http://hits.dwyl.com/desta88/https://githubcom/desta88/Codeigniter-Barcode.svg)](http://hits.dwyl.com/desta88/https://githubcom/desta88/Codeigniter-Barcode)
+
+
+[![GitHub forks](https://img.shields.io/github/forks/desta88/Codeigniter-Barcode.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/desta88/Codeigniter-Barcode/network/)
+[![GitHub stars](https://img.shields.io/github/stars/desta88/Codeigniter-Barcode.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/desta88/Codeigniter-Barcode/stargazers/)
 
 
 Create barcode generator using Zend Library
