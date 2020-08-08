@@ -6,7 +6,6 @@
 
 [![Inline docs](http://inch-ci.org/github/desta88/Codeigniter-Barcode.svg?branch=master)](http://inch-ci.org/github/desta88/Codeigniter-Barcode) 
 [![HitCount](http://hits.dwyl.com/desta88/Codeigniter-Barcode.svg)](http://hits.dwyl.com/desta88/Codeigniter-Barcode)
-[![Coverage Status](https://coveralls.io/repos/github/desta88/Codeigniter-Barcode/badge.svg?branch=master)](https://coveralls.io/github/desta88/Codeigniter-Barcode?branch=master)
 
 
 Create barcode generator using Zend Library
