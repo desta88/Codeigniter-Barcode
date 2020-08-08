@@ -1,26 +1,37 @@
-[Codeigniter Barcode Generator With Zend Library, Support CI 2 & 3](https://github.com/desta88/Codeigniter-Barcode-Generator-Zend-Library)
-==========================================
+# Codeigniter-Barcode
+
+
+> Codeigniter-Barcode by Zend Library - Changelog & Documentation
+
+
+[![Inline docs](http://inch-ci.org/github/desta88/Codeigniter-Barcode.svg?branch=master)](http://inch-ci.org/github/desta88/Codeigniter-Barcode) 
+[![HitCount](http://hits.dwyl.com/desta88/Codeigniter-Barcode.svg)](http://hits.dwyl.com/desta88/Codeigniter-Barcode)
+[![Coverage Status](https://coveralls.io/repos/github/desta88/Codeigniter-Barcode/badge.svg?branch=master)](https://coveralls.io/github/desta88/Codeigniter-Barcode?branch=master)
+
 
 Create barcode generator using Zend Library
 
 It's so easy to use, you just extract the library into libraries path and then put library in controller, check it out now!
 
-<h1>Setup</h1>
 
-<blockquote>
-	1. Download and extract into libraries path<br>
-	2. Include your library in controller
-</blockquote>
 
-Here's an example:
 
+Installation
+------------
+1. Download and extract into libraries path<br>
+2. Include your library in controller
+
+
+
+
+Usage
+------------
 ```
 class Main extends CI_Controller {
 
 	public function index()
 	{
-		//I'm just using rand() function for data example
-		$temp = rand(10000, 99999);
+		$temp = 'jh0n';
 		$this->set_barcode($temp);
 	}
 	
@@ -36,3 +47,19 @@ class Main extends CI_Controller {
 	
 }
 ```
+
+
+Changelog Update 
+----------------
+#SOON
+
+
+
+
+License
+------------
+License : [MIT License](http://opensource.org/licenses/mit-license.html)
+
+Authors
+------------
+Official Authors [@desta](https://mdcreative.id/)
