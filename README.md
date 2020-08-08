@@ -35,17 +35,18 @@ class Main extends CI_Controller {
 
 	public function index()
 	{
-		$temp = 'jh0n';
-		$this->set_barcode($temp);
+		// You can put anything here to generate of barcode
+		$string = 'code39';
+		$this->set_barcode($string);
 	}
 	
 	private function set_barcode($code)
 	{
-		//load library
+		// Load library
 		$this->load->library('zend');
-		//load in folder Zend
+		// Load in folder Zend
 		$this->zend->load('Zend/Barcode');
-		//generate barcode
+		// Generate barcode
 		Zend_Barcode::render('code128', 'image', array('text'=>$code), array());
 	}
 	
