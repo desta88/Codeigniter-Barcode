@@ -56,7 +56,7 @@ class Main extends CI_Controller {
 
 Changelog Update 
 ----------------
-#SOON
+#v1.0 Release
 
 
 
@@ -64,6 +64,7 @@ Changelog Update
 License
 ------------
 License : [MIT License](https://github.com/desta88/Codeigniter-Barcode/blob/master/LICENSE)
+
 
 Authors
 ------------
