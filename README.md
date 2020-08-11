@@ -63,7 +63,7 @@ Changelog Update
 
 License
 ------------
-License : [MIT License](http://opensource.org/licenses/mit-license.html)
+License : [MIT License](https://github.com/desta88/Codeigniter-Barcode/blob/master/LICENSE)
 
 Authors
 ------------
